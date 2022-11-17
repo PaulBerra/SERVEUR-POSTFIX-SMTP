@@ -1,6 +1,6 @@
 # SERVEUR-POSTFIX-SMTP
 
-Working conf for sent mail in "umontpellier.fr" domain
+Working configuration usable to send spoofed mail in "umontpellier" academy
 spoof possible en remplacant dans la commande
 ```
 swaks --from=<expediteur> --body "<votre message>" 
